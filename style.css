@@ -107,7 +107,7 @@ a:hover {
     color: var(--main-color);
 }
 
-.owl-carousel .owl-dots {
+/* .owl-carousel .owl-dots {
     padding: 0 15px;
     text-align: center;
     margin-top: 20px;
@@ -124,7 +124,7 @@ a:hover {
 
 .owl-carousel button.owl-dot.active {
     background-color: var(--main-color);
-}
+} */
 
 /*NAVBAR*/
 .navbar {
